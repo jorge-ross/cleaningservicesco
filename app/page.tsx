@@ -96,7 +96,7 @@ export default function Home() {
               <Card>
                 <CardContent className="p-6">
                   <p className="text-gray-500 dark:text-gray-400 mb-4">
-                    "CleanCo has transformed our office space. Their attention to detail is impeccable, and the staff is always professional."
+                  &quot;CleanCo has transformed our office space. Their attention to detail is impeccable, and the staff is always professional.&quot;
                   </p>
                   <p className="font-semibold">- Sarah J., Office Manager</p>
                 </CardContent>
@@ -104,7 +104,7 @@ export default function Home() {
               <Card>
                 <CardContent className="p-6">
                   <p className="text-gray-500 dark:text-gray-400 mb-4">
-                    "I love coming home to a sparkling clean house. CleanCo's eco-friendly approach gives me peace of mind."
+                  &quot;I love coming home to a sparkling clean house. CleanCo&apos;s eco-friendly approach gives me peace of mind.&quot;
                   </p>
                   <p className="font-semibold">- Michael T., Homeowner</p>
                 </CardContent>
